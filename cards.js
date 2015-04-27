@@ -17,7 +17,35 @@ function shuffle(array){
 }
 
 function buildDeck(){
-
+  var deck = [];
+  for (var i=0; i<suits.length; i++) {
+    for (var j=0; j<values.length; j++) {
+      var card= {suit: suits[i], value: values[j], rank: j};
+      deck.push(card);
+    }
+  }
+  return deck;
 // Put some code in here!
-
 }
+
+function highCard(deck) {
+  var player1= deck[0];
+  var player2= deck[1];
+  console.log("Player 1: " + player1.value)
+  console.log("Player 2: " + player2.value)
+  if (player1.rank > player2.rank) {
+    console.log("Player 1 wins!")
+  }else if (player1.rank === player2.rank) {
+    console.log("It's a tie!")
+  }else {
+    console.log("Player 2 wins!")
+  }
+}
+
+
+
+var deck= buildDeck();
+console.log(deck);
+highCard(shuffle(deck))
+
+
