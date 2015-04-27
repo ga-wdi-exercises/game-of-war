@@ -17,7 +17,13 @@ function shuffle(array){
 }
 
 function buildDeck(){
-
-// Put some code in here!
-
+  var deck = [];
+  for ( var i = 0; i < values.length ; i++ ) {
+    for ( var j = 0; j < suits.length; j++ ) {
+      deck.push( [values[i], suits[j]] );
+    }
+  }
+  deck = shuffle( deck );
 }
+
+buildDeck();
