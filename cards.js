@@ -1,60 +1,94 @@
-function knuth_shuffle(array){
-  var current_index = array.length;
-  var random_index;
-  var temporary_value;
-  while(current_index > 0){
-    random_index   = Math.floor(Math.random() * current_index);
-    current_index -= 1;
+var values  = [2, 3, 4, 5, 6, 7, 8, 9, 10, "J", "Q", "K", "A"];
+var suits   = ["Clubs", "Diamonds", "Hearts", "Spades"];
 
-    temporary_value       = array[current_index];
-    array[current_index]  = array[random_index];
-    array[random_index]   = temporary_value;
+function shuffle(array){
+  var currentIndex = array.length;
+  var randomIndex;
+  var temporaryValue;
+  while(currentIndex > 0){
+    randomIndex   = Math.floor(Math.random() * currentIndex);
+    currentIndex -= 1;
+
+    temporaryValue       = array[currentIndex];
+    array[currentIndex]  = array[randomIndex];
+    array[randomIndex]   = temporaryValue;
   }
   return array;
 }
 
-function build_deck(){ 
-  var values  = [2, 3, 4, 5, 6, 7, 8, 9, 10, "J", "Q", "K", "A"];
-  var suits   = ["Clubs", "Diamonds", "Hearts", "Spades"];
-  var deck    = []
+function buildDeck(){
+  var deck = [];
+  for(var suitIndex = 0; suitIndex < suits.length; suitIndex++){
+    for(var valueIndex = 0; valueIndex < values.length; valueIndex++){
+      deck.push({
+        "suit"  : suits[suitIndex],
+        "value" : values[valueIndex]
+      });
+    }
+  }
+  return deck;
+}
 
-    for(var suit_index = 0; suit_index < suits.length; suit_index++){
-      for(var value_index = 0; value_index < values.length; value_index++){
-        deck.push({
-          "suit"  : suits[suit_index],
-          "value" : values[value_index]
-        });
+function Player(){
+  this.deck     = [];
+  this.discard  = [];
+  this.card     = [];
+  this.total    = function(){
+    return this.deck.length + this.discard.length;
+  };
+}
+
+function draw(){
+  for(var x in players){
+    var player  = players[x];
+    if(player.deck.length === 0 && player.discard.length !== 0){
+      player.deck     = shuffle(player.discard);
+      player.discard  = [];
+    }else if(player.total() === 0){
+      return false;
+    }
+    player.card = player.deck.shift();
+    pot.push(player.card);
+    console.log(x + " DRAW " + player.card["value"] + " TOTAL " + (player.total() + 1));
+  }
+}
+
+function winner(which){
+  var winner = players[which];
+  winner.discard = winner.discard.concat(pot);
+  pot = [];
+}
+
+function turn(){
+  do{
+    draw();
+    cardA = values.indexOf(players["a"].card["value"]);
+    cardB = values.indexOf(players["b"].card["value"]);
+    if(cardA > cardB){
+      winner("a");
+    }else if(cardA < cardB){
+      winner("b");
+    }else{
+      console.log("BATTLE!");
+      for(var x = 0; x < 2; x++){
+        draw();
       }
     }
-  return deck;
+  }while(pot.length > 0);
 }
 
-function high_card(deck){
-  var values = [2, 3, 4, 5, 6, 7, 8, 9, 10, "J", "Q", "K", "A"];
-  var player1_card = deck.shift();
-  var player2_card = deck.shift();
 
-  console.log("Player 1 drew the " + player1_card["value"] + " of " + player1_card["suit"] + ". Player 2 drew the " + player2_card["value"] + " of " + player2_card["suit"] + ".");
+var deck    = shuffle(buildDeck());
+var players = {"a" : new Player(), "b" : new Player()};
+var pot     = [];
+var turns   = 0;
 
-  if(values.indexOf(player1_card["value"]) > values.indexOf(player2_card["value"])){
-    console.log("Player 1 won!");
-  }else if(values.indexOf(player1_card["value"]) > values.indexOf(player2_card["value"])){
-    console.log("Player 2 won!");
-  }else{
-    console.log("It was a tie!");
-  }
-  
-  return deck;
+for(var x in players){
+  players[x].deck = deck.splice(0,26);
 }
-
-high_card(knuth_shuffle(build_deck()));
-
-function game_of_war(){
-  var deck  = knuth_shuffle(build_deck());
-  var player1_deck = deck.splice(0,26);
-  var player2_deck = deck.splice(0,26);
-
-
+while(players["a"].total() !== 52 && players["a"].total() !== 0){
+  turns += 1;
+  console.log("TURN " + turns);
+  turn();
 }
-
-game_of_war();
+console.log("GAME OVER!");
