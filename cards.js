@@ -17,7 +17,34 @@ function shuffle(array){
 }
 
 function buildDeck(){
+  var cards = []
+  var card = {}
+  var suit = ""
+  //var face_value = "2"
+
+  for (value_index in values){
+    face_value = values[value_index];
+      cards.push(face_value);
+
+      for(card_suit in suits){
+        cards.push(card_suit);
+
+        }
+
+    // card.suit = suit
+
+
+    // card.face_value = face_value
+    // cards.push(card);
+    // cards.push(card);
+
+  }
+
+
 
 // Put some code in here!
-
+return cards
 }
+
+
+console.log(buildDeck())
