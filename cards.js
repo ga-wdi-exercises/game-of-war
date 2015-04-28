@@ -1,3 +1,4 @@
+
 var values  = [2, 3, 4, 5, 6, 7, 8, 9, 10, "J", "Q", "K", "A"];
 var suits   = ["Clubs", "Diamonds", "Hearts", "Spades"];
 
@@ -56,6 +57,21 @@ console.log(dealtPlayer1)
 console.log("Player 2: ")
 console.log(dealtPlayer2)
 
+
+var cardA = dealtPlayer1.value
+var cardB = dealtPlayer2.value
+
+if (cardA > cardB){
+  console.log("Player 1 wins!")
+}
+
+else if (cardA === cardB){
+  console.log("Tie.")
+}
+
+else {
+  console.log("Player 2 wins!")
+}
 /*if (dealtPlayer1[value] > dealtPlayer2[value])
 {
     console.log("Player 1 wins!")
