@@ -16,8 +16,42 @@ function shuffle(array){
   return array;
 }
 
-function buildDeck(){
+function buildDeck()
+{
+  var deck_array = []
 
-// Put some code in here!
+  for(var suits_i = 0; suits_i < suits.length; suits_i++)
+  {
+    for(var values_i = 0; values_i < values.length; values_i++)
+    {
+      deck_array.push(
+          {suit: (suits[suits_i]),
+          value: (values[values_i])}
+        );
+    }
+  }
 
+  return deck_array
 }
+
+/*function deal(){
+for(var deck_i = 0; deck_i < deck.length; deck_i++)
+{
+      var dealt = deck.pop;
+      return dealt;
+}
+}
+*/
+
+
+var deck    = shuffle(buildDeck());
+
+var dealtPlayer1 = deck[0]
+var dealtPlayer2 = deck[1]
+
+
+
+console.log("Player 1: ")
+console.log(dealtPlayer1)
+console.log("Player 2: ")
+console.log(dealtPlayer2)
