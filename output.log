@@ -1,0 +1,1688 @@
+first =0
+true
+false
+suit_passed 0
+card before is = [object Object]
+a_value = Clubs
+i is 0
+card suit is = Clubs
+card after is = [object Object]
+===============================================
+card before is = [object Object]
+a_value = Clubs
+i is 1
+card suit is = Clubs
+card after is = [object Object]
+===============================================
+card before is = [object Object]
+a_value = Clubs
+i is 2
+card suit is = Clubs
+card after is = [object Object]
+===============================================
+card before is = [object Object]
+a_value = Clubs
+i is 3
+card suit is = Clubs
+card after is = [object Object]
+===============================================
+card before is = [object Object]
+a_value = Clubs
+i is 4
+card suit is = Clubs
+card after is = [object Object]
+===============================================
+card before is = [object Object]
+a_value = Clubs
+i is 5
+card suit is = Clubs
+card after is = [object Object]
+===============================================
+card before is = [object Object]
+a_value = Clubs
+i is 6
+card suit is = Clubs
+card after is = [object Object]
+===============================================
+card before is = [object Object]
+a_value = Clubs
+i is 7
+card suit is = Clubs
+card after is = [object Object]
+===============================================
+card before is = [object Object]
+a_value = Clubs
+i is 8
+card suit is = Clubs
+card after is = [object Object]
+===============================================
+card before is = [object Object]
+a_value = Clubs
+i is 9
+card suit is = Clubs
+card after is = [object Object]
+===============================================
+card before is = [object Object]
+a_value = Clubs
+i is 10
+card suit is = Clubs
+card after is = [object Object]
+===============================================
+card before is = [object Object]
+a_value = Clubs
+i is 11
+card suit is = Clubs
+card after is = [object Object]
+===============================================
+card before is = [object Object]
+a_value = Clubs
+i is 12
+card suit is = Clubs
+card after is = [object Object]
+===============================================
+Inside>>>>>>>>>>>
+[ { suit: 'Clubs', value: undefined },
+  { suit: 'Clubs', value: undefined },
+  { suit: 'Clubs', value: undefined },
+  { suit: 'Clubs', value: undefined },
+  { suit: 'Clubs', value: undefined },
+  { suit: 'Clubs', value: undefined },
+  { suit: 'Clubs', value: undefined },
+  { suit: 'Clubs', value: undefined },
+  { suit: 'Clubs', value: undefined },
+  { suit: 'Clubs', value: undefined },
+  { suit: 'Clubs', value: undefined },
+  { suit: 'Clubs', value: undefined },
+  { suit: 'Clubs', value: undefined },
+  { suit: 'Clubs', value: undefined },
+  { suit: 'Clubs', value: undefined },
+  { suit: 'Clubs', value: undefined },
+  { suit: 'Clubs', value: undefined },
+  { suit: 'Clubs', value: undefined },
+  { suit: 'Clubs', value: undefined },
+  { suit: 'Clubs', value: undefined },
+  { suit: 'Clubs', value: undefined },
+  { suit: 'Clubs', value: undefined },
+  { suit: 'Clubs', value: undefined },
+  { suit: 'Clubs', value: undefined },
+  { suit: 'Clubs', value: undefined },
+  { suit: 'Clubs', value: undefined },
+  { suit: 'Clubs', value: undefined },
+  { suit: 'Clubs', value: undefined },
+  { suit: 'Clubs', value: undefined },
+  { suit: 'Clubs', value: undefined },
+  { suit: 'Clubs', value: undefined },
+  { suit: 'Clubs', value: undefined },
+  { suit: 'Clubs', value: undefined },
+  { suit: 'Clubs', value: undefined },
+  { suit: 'Clubs', value: undefined },
+  { suit: 'Clubs', value: undefined },
+  { suit: 'Clubs', value: undefined },
+  { suit: 'Clubs', value: undefined },
+  { suit: 'Clubs', value: undefined },
+  { suit: 'Clubs', value: undefined },
+  { suit: 'Clubs', value: undefined },
+  { suit: 'Clubs', value: undefined },
+  { suit: 'Clubs', value: undefined },
+  { suit: 'Clubs', value: undefined },
+  { suit: 'Clubs', value: undefined },
+  { suit: 'Clubs', value: undefined },
+  { suit: 'Clubs', value: undefined },
+  { suit: 'Clubs', value: undefined },
+  { suit: 'Clubs', value: undefined },
+  { suit: 'Clubs', value: undefined },
+  { suit: 'Clubs', value: undefined },
+  { suit: 'Clubs', value: undefined } ]
+OUT<<<<<<<<<<<<<
+first =1
+true
+false
+suit_passed 13
+card before is = [object Object]
+a_value = Diamonds
+i is 13
+card suit is = Diamonds
+card after is = [object Object]
+===============================================
+card before is = [object Object]
+a_value = Diamonds
+i is 14
+card suit is = Diamonds
+card after is = [object Object]
+===============================================
+card before is = [object Object]
+a_value = Diamonds
+i is 15
+card suit is = Diamonds
+card after is = [object Object]
+===============================================
+card before is = [object Object]
+a_value = Diamonds
+i is 16
+card suit is = Diamonds
+card after is = [object Object]
+===============================================
+card before is = [object Object]
+a_value = Diamonds
+i is 17
+card suit is = Diamonds
+card after is = [object Object]
+===============================================
+card before is = [object Object]
+a_value = Diamonds
+i is 18
+card suit is = Diamonds
+card after is = [object Object]
+===============================================
+card before is = [object Object]
+a_value = Diamonds
+i is 19
+card suit is = Diamonds
+card after is = [object Object]
+===============================================
+card before is = [object Object]
+a_value = Diamonds
+i is 20
+card suit is = Diamonds
+card after is = [object Object]
+===============================================
+card before is = [object Object]
+a_value = Diamonds
+i is 21
+card suit is = Diamonds
+card after is = [object Object]
+===============================================
+card before is = [object Object]
+a_value = Diamonds
+i is 22
+card suit is = Diamonds
+card after is = [object Object]
+===============================================
+card before is = [object Object]
+a_value = Diamonds
+i is 23
+card suit is = Diamonds
+card after is = [object Object]
+===============================================
+card before is = [object Object]
+a_value = Diamonds
+i is 24
+card suit is = Diamonds
+card after is = [object Object]
+===============================================
+card before is = [object Object]
+a_value = Diamonds
+i is 25
+card suit is = Diamonds
+card after is = [object Object]
+===============================================
+Inside>>>>>>>>>>>
+[ { suit: 'Diamonds', value: undefined },
+  { suit: 'Diamonds', value: undefined },
+  { suit: 'Diamonds', value: undefined },
+  { suit: 'Diamonds', value: undefined },
+  { suit: 'Diamonds', value: undefined },
+  { suit: 'Diamonds', value: undefined },
+  { suit: 'Diamonds', value: undefined },
+  { suit: 'Diamonds', value: undefined },
+  { suit: 'Diamonds', value: undefined },
+  { suit: 'Diamonds', value: undefined },
+  { suit: 'Diamonds', value: undefined },
+  { suit: 'Diamonds', value: undefined },
+  { suit: 'Diamonds', value: undefined },
+  { suit: 'Diamonds', value: undefined },
+  { suit: 'Diamonds', value: undefined },
+  { suit: 'Diamonds', value: undefined },
+  { suit: 'Diamonds', value: undefined },
+  { suit: 'Diamonds', value: undefined },
+  { suit: 'Diamonds', value: undefined },
+  { suit: 'Diamonds', value: undefined },
+  { suit: 'Diamonds', value: undefined },
+  { suit: 'Diamonds', value: undefined },
+  { suit: 'Diamonds', value: undefined },
+  { suit: 'Diamonds', value: undefined },
+  { suit: 'Diamonds', value: undefined },
+  { suit: 'Diamonds', value: undefined },
+  { suit: 'Diamonds', value: undefined },
+  { suit: 'Diamonds', value: undefined },
+  { suit: 'Diamonds', value: undefined },
+  { suit: 'Diamonds', value: undefined },
+  { suit: 'Diamonds', value: undefined },
+  { suit: 'Diamonds', value: undefined },
+  { suit: 'Diamonds', value: undefined },
+  { suit: 'Diamonds', value: undefined },
+  { suit: 'Diamonds', value: undefined },
+  { suit: 'Diamonds', value: undefined },
+  { suit: 'Diamonds', value: undefined },
+  { suit: 'Diamonds', value: undefined },
+  { suit: 'Diamonds', value: undefined },
+  { suit: 'Diamonds', value: undefined },
+  { suit: 'Diamonds', value: undefined },
+  { suit: 'Diamonds', value: undefined },
+  { suit: 'Diamonds', value: undefined },
+  { suit: 'Diamonds', value: undefined },
+  { suit: 'Diamonds', value: undefined },
+  { suit: 'Diamonds', value: undefined },
+  { suit: 'Diamonds', value: undefined },
+  { suit: 'Diamonds', value: undefined },
+  { suit: 'Diamonds', value: undefined },
+  { suit: 'Diamonds', value: undefined },
+  { suit: 'Diamonds', value: undefined },
+  { suit: 'Diamonds', value: undefined } ]
+OUT<<<<<<<<<<<<<
+first =2
+true
+false
+suit_passed 26
+card before is = [object Object]
+a_value = Hearts
+i is 26
+card suit is = Hearts
+card after is = [object Object]
+===============================================
+card before is = [object Object]
+a_value = Hearts
+i is 27
+card suit is = Hearts
+card after is = [object Object]
+===============================================
+card before is = [object Object]
+a_value = Hearts
+i is 28
+card suit is = Hearts
+card after is = [object Object]
+===============================================
+card before is = [object Object]
+a_value = Hearts
+i is 29
+card suit is = Hearts
+card after is = [object Object]
+===============================================
+card before is = [object Object]
+a_value = Hearts
+i is 30
+card suit is = Hearts
+card after is = [object Object]
+===============================================
+card before is = [object Object]
+a_value = Hearts
+i is 31
+card suit is = Hearts
+card after is = [object Object]
+===============================================
+card before is = [object Object]
+a_value = Hearts
+i is 32
+card suit is = Hearts
+card after is = [object Object]
+===============================================
+card before is = [object Object]
+a_value = Hearts
+i is 33
+card suit is = Hearts
+card after is = [object Object]
+===============================================
+card before is = [object Object]
+a_value = Hearts
+i is 34
+card suit is = Hearts
+card after is = [object Object]
+===============================================
+card before is = [object Object]
+a_value = Hearts
+i is 35
+card suit is = Hearts
+card after is = [object Object]
+===============================================
+card before is = [object Object]
+a_value = Hearts
+i is 36
+card suit is = Hearts
+card after is = [object Object]
+===============================================
+card before is = [object Object]
+a_value = Hearts
+i is 37
+card suit is = Hearts
+card after is = [object Object]
+===============================================
+card before is = [object Object]
+a_value = Hearts
+i is 38
+card suit is = Hearts
+card after is = [object Object]
+===============================================
+Inside>>>>>>>>>>>
+[ { suit: 'Hearts', value: undefined },
+  { suit: 'Hearts', value: undefined },
+  { suit: 'Hearts', value: undefined },
+  { suit: 'Hearts', value: undefined },
+  { suit: 'Hearts', value: undefined },
+  { suit: 'Hearts', value: undefined },
+  { suit: 'Hearts', value: undefined },
+  { suit: 'Hearts', value: undefined },
+  { suit: 'Hearts', value: undefined },
+  { suit: 'Hearts', value: undefined },
+  { suit: 'Hearts', value: undefined },
+  { suit: 'Hearts', value: undefined },
+  { suit: 'Hearts', value: undefined },
+  { suit: 'Hearts', value: undefined },
+  { suit: 'Hearts', value: undefined },
+  { suit: 'Hearts', value: undefined },
+  { suit: 'Hearts', value: undefined },
+  { suit: 'Hearts', value: undefined },
+  { suit: 'Hearts', value: undefined },
+  { suit: 'Hearts', value: undefined },
+  { suit: 'Hearts', value: undefined },
+  { suit: 'Hearts', value: undefined },
+  { suit: 'Hearts', value: undefined },
+  { suit: 'Hearts', value: undefined },
+  { suit: 'Hearts', value: undefined },
+  { suit: 'Hearts', value: undefined },
+  { suit: 'Hearts', value: undefined },
+  { suit: 'Hearts', value: undefined },
+  { suit: 'Hearts', value: undefined },
+  { suit: 'Hearts', value: undefined },
+  { suit: 'Hearts', value: undefined },
+  { suit: 'Hearts', value: undefined },
+  { suit: 'Hearts', value: undefined },
+  { suit: 'Hearts', value: undefined },
+  { suit: 'Hearts', value: undefined },
+  { suit: 'Hearts', value: undefined },
+  { suit: 'Hearts', value: undefined },
+  { suit: 'Hearts', value: undefined },
+  { suit: 'Hearts', value: undefined },
+  { suit: 'Hearts', value: undefined },
+  { suit: 'Hearts', value: undefined },
+  { suit: 'Hearts', value: undefined },
+  { suit: 'Hearts', value: undefined },
+  { suit: 'Hearts', value: undefined },
+  { suit: 'Hearts', value: undefined },
+  { suit: 'Hearts', value: undefined },
+  { suit: 'Hearts', value: undefined },
+  { suit: 'Hearts', value: undefined },
+  { suit: 'Hearts', value: undefined },
+  { suit: 'Hearts', value: undefined },
+  { suit: 'Hearts', value: undefined },
+  { suit: 'Hearts', value: undefined } ]
+OUT<<<<<<<<<<<<<
+first =3
+true
+false
+suit_passed 39
+card before is = [object Object]
+a_value = Spades
+i is 39
+card suit is = Spades
+card after is = [object Object]
+===============================================
+card before is = [object Object]
+a_value = Spades
+i is 40
+card suit is = Spades
+card after is = [object Object]
+===============================================
+card before is = [object Object]
+a_value = Spades
+i is 41
+card suit is = Spades
+card after is = [object Object]
+===============================================
+card before is = [object Object]
+a_value = Spades
+i is 42
+card suit is = Spades
+card after is = [object Object]
+===============================================
+card before is = [object Object]
+a_value = Spades
+i is 43
+card suit is = Spades
+card after is = [object Object]
+===============================================
+card before is = [object Object]
+a_value = Spades
+i is 44
+card suit is = Spades
+card after is = [object Object]
+===============================================
+card before is = [object Object]
+a_value = Spades
+i is 45
+card suit is = Spades
+card after is = [object Object]
+===============================================
+card before is = [object Object]
+a_value = Spades
+i is 46
+card suit is = Spades
+card after is = [object Object]
+===============================================
+card before is = [object Object]
+a_value = Spades
+i is 47
+card suit is = Spades
+card after is = [object Object]
+===============================================
+card before is = [object Object]
+a_value = Spades
+i is 48
+card suit is = Spades
+card after is = [object Object]
+===============================================
+card before is = [object Object]
+a_value = Spades
+i is 49
+card suit is = Spades
+card after is = [object Object]
+===============================================
+card before is = [object Object]
+a_value = Spades
+i is 50
+card suit is = Spades
+card after is = [object Object]
+===============================================
+card before is = [object Object]
+a_value = Spades
+i is 51
+card suit is = Spades
+card after is = [object Object]
+===============================================
+Inside>>>>>>>>>>>
+[ { suit: 'Spades', value: undefined },
+  { suit: 'Spades', value: undefined },
+  { suit: 'Spades', value: undefined },
+  { suit: 'Spades', value: undefined },
+  { suit: 'Spades', value: undefined },
+  { suit: 'Spades', value: undefined },
+  { suit: 'Spades', value: undefined },
+  { suit: 'Spades', value: undefined },
+  { suit: 'Spades', value: undefined },
+  { suit: 'Spades', value: undefined },
+  { suit: 'Spades', value: undefined },
+  { suit: 'Spades', value: undefined },
+  { suit: 'Spades', value: undefined },
+  { suit: 'Spades', value: undefined },
+  { suit: 'Spades', value: undefined },
+  { suit: 'Spades', value: undefined },
+  { suit: 'Spades', value: undefined },
+  { suit: 'Spades', value: undefined },
+  { suit: 'Spades', value: undefined },
+  { suit: 'Spades', value: undefined },
+  { suit: 'Spades', value: undefined },
+  { suit: 'Spades', value: undefined },
+  { suit: 'Spades', value: undefined },
+  { suit: 'Spades', value: undefined },
+  { suit: 'Spades', value: undefined },
+  { suit: 'Spades', value: undefined },
+  { suit: 'Spades', value: undefined },
+  { suit: 'Spades', value: undefined },
+  { suit: 'Spades', value: undefined },
+  { suit: 'Spades', value: undefined },
+  { suit: 'Spades', value: undefined },
+  { suit: 'Spades', value: undefined },
+  { suit: 'Spades', value: undefined },
+  { suit: 'Spades', value: undefined },
+  { suit: 'Spades', value: undefined },
+  { suit: 'Spades', value: undefined },
+  { suit: 'Spades', value: undefined },
+  { suit: 'Spades', value: undefined },
+  { suit: 'Spades', value: undefined },
+  { suit: 'Spades', value: undefined },
+  { suit: 'Spades', value: undefined },
+  { suit: 'Spades', value: undefined },
+  { suit: 'Spades', value: undefined },
+  { suit: 'Spades', value: undefined },
+  { suit: 'Spades', value: undefined },
+  { suit: 'Spades', value: undefined },
+  { suit: 'Spades', value: undefined },
+  { suit: 'Spades', value: undefined },
+  { suit: 'Spades', value: undefined },
+  { suit: 'Spades', value: undefined },
+  { suit: 'Spades', value: undefined },
+  { suit: 'Spades', value: undefined } ]
+OUT<<<<<<<<<<<<<
+second =0
+false
+true
+############################################
+Deck length is = 52
+index start value is  0
+i is 0
+card value before is = undefined
+card before is = suitSpades
+a_value = 2
+card after value is = 2
+===============================================
+i is 13
+card value before is = 2
+card before is = suitSpades
+a_value = 2
+card after value is = 2
+===============================================
+i is 26
+card value before is = 2
+card before is = suitSpades
+a_value = 2
+card after value is = 2
+===============================================
+i is 39
+card value before is = 2
+card before is = suitSpades
+a_value = 2
+card after value is = 2
+===============================================
+Inside>>>>>>>>>>>
+[ { suit: 'Spades', value: 2 },
+  { suit: 'Spades', value: 2 },
+  { suit: 'Spades', value: 2 },
+  { suit: 'Spades', value: 2 },
+  { suit: 'Spades', value: 2 },
+  { suit: 'Spades', value: 2 },
+  { suit: 'Spades', value: 2 },
+  { suit: 'Spades', value: 2 },
+  { suit: 'Spades', value: 2 },
+  { suit: 'Spades', value: 2 },
+  { suit: 'Spades', value: 2 },
+  { suit: 'Spades', value: 2 },
+  { suit: 'Spades', value: 2 },
+  { suit: 'Spades', value: 2 },
+  { suit: 'Spades', value: 2 },
+  { suit: 'Spades', value: 2 },
+  { suit: 'Spades', value: 2 },
+  { suit: 'Spades', value: 2 },
+  { suit: 'Spades', value: 2 },
+  { suit: 'Spades', value: 2 },
+  { suit: 'Spades', value: 2 },
+  { suit: 'Spades', value: 2 },
+  { suit: 'Spades', value: 2 },
+  { suit: 'Spades', value: 2 },
+  { suit: 'Spades', value: 2 },
+  { suit: 'Spades', value: 2 },
+  { suit: 'Spades', value: 2 },
+  { suit: 'Spades', value: 2 },
+  { suit: 'Spades', value: 2 },
+  { suit: 'Spades', value: 2 },
+  { suit: 'Spades', value: 2 },
+  { suit: 'Spades', value: 2 },
+  { suit: 'Spades', value: 2 },
+  { suit: 'Spades', value: 2 },
+  { suit: 'Spades', value: 2 },
+  { suit: 'Spades', value: 2 },
+  { suit: 'Spades', value: 2 },
+  { suit: 'Spades', value: 2 },
+  { suit: 'Spades', value: 2 },
+  { suit: 'Spades', value: 2 },
+  { suit: 'Spades', value: 2 },
+  { suit: 'Spades', value: 2 },
+  { suit: 'Spades', value: 2 },
+  { suit: 'Spades', value: 2 },
+  { suit: 'Spades', value: 2 },
+  { suit: 'Spades', value: 2 },
+  { suit: 'Spades', value: 2 },
+  { suit: 'Spades', value: 2 },
+  { suit: 'Spades', value: 2 },
+  { suit: 'Spades', value: 2 },
+  { suit: 'Spades', value: 2 },
+  { suit: 'Spades', value: 2 } ]
+OUT<<<<<<<<<<<<<
+second =1
+false
+true
+############################################
+Deck length is = 52
+index start value is  1
+i is 1
+card value before is = 2
+card before is = suitSpades
+a_value = 3
+card after value is = 3
+===============================================
+i is 14
+card value before is = 3
+card before is = suitSpades
+a_value = 3
+card after value is = 3
+===============================================
+i is 27
+card value before is = 3
+card before is = suitSpades
+a_value = 3
+card after value is = 3
+===============================================
+i is 40
+card value before is = 3
+card before is = suitSpades
+a_value = 3
+card after value is = 3
+===============================================
+Inside>>>>>>>>>>>
+[ { suit: 'Spades', value: 3 },
+  { suit: 'Spades', value: 3 },
+  { suit: 'Spades', value: 3 },
+  { suit: 'Spades', value: 3 },
+  { suit: 'Spades', value: 3 },
+  { suit: 'Spades', value: 3 },
+  { suit: 'Spades', value: 3 },
+  { suit: 'Spades', value: 3 },
+  { suit: 'Spades', value: 3 },
+  { suit: 'Spades', value: 3 },
+  { suit: 'Spades', value: 3 },
+  { suit: 'Spades', value: 3 },
+  { suit: 'Spades', value: 3 },
+  { suit: 'Spades', value: 3 },
+  { suit: 'Spades', value: 3 },
+  { suit: 'Spades', value: 3 },
+  { suit: 'Spades', value: 3 },
+  { suit: 'Spades', value: 3 },
+  { suit: 'Spades', value: 3 },
+  { suit: 'Spades', value: 3 },
+  { suit: 'Spades', value: 3 },
+  { suit: 'Spades', value: 3 },
+  { suit: 'Spades', value: 3 },
+  { suit: 'Spades', value: 3 },
+  { suit: 'Spades', value: 3 },
+  { suit: 'Spades', value: 3 },
+  { suit: 'Spades', value: 3 },
+  { suit: 'Spades', value: 3 },
+  { suit: 'Spades', value: 3 },
+  { suit: 'Spades', value: 3 },
+  { suit: 'Spades', value: 3 },
+  { suit: 'Spades', value: 3 },
+  { suit: 'Spades', value: 3 },
+  { suit: 'Spades', value: 3 },
+  { suit: 'Spades', value: 3 },
+  { suit: 'Spades', value: 3 },
+  { suit: 'Spades', value: 3 },
+  { suit: 'Spades', value: 3 },
+  { suit: 'Spades', value: 3 },
+  { suit: 'Spades', value: 3 },
+  { suit: 'Spades', value: 3 },
+  { suit: 'Spades', value: 3 },
+  { suit: 'Spades', value: 3 },
+  { suit: 'Spades', value: 3 },
+  { suit: 'Spades', value: 3 },
+  { suit: 'Spades', value: 3 },
+  { suit: 'Spades', value: 3 },
+  { suit: 'Spades', value: 3 },
+  { suit: 'Spades', value: 3 },
+  { suit: 'Spades', value: 3 },
+  { suit: 'Spades', value: 3 },
+  { suit: 'Spades', value: 3 } ]
+OUT<<<<<<<<<<<<<
+second =2
+false
+true
+############################################
+Deck length is = 52
+index start value is  2
+i is 2
+card value before is = 3
+card before is = suitSpades
+a_value = 4
+card after value is = 4
+===============================================
+i is 15
+card value before is = 4
+card before is = suitSpades
+a_value = 4
+card after value is = 4
+===============================================
+i is 28
+card value before is = 4
+card before is = suitSpades
+a_value = 4
+card after value is = 4
+===============================================
+i is 41
+card value before is = 4
+card before is = suitSpades
+a_value = 4
+card after value is = 4
+===============================================
+Inside>>>>>>>>>>>
+[ { suit: 'Spades', value: 4 },
+  { suit: 'Spades', value: 4 },
+  { suit: 'Spades', value: 4 },
+  { suit: 'Spades', value: 4 },
+  { suit: 'Spades', value: 4 },
+  { suit: 'Spades', value: 4 },
+  { suit: 'Spades', value: 4 },
+  { suit: 'Spades', value: 4 },
+  { suit: 'Spades', value: 4 },
+  { suit: 'Spades', value: 4 },
+  { suit: 'Spades', value: 4 },
+  { suit: 'Spades', value: 4 },
+  { suit: 'Spades', value: 4 },
+  { suit: 'Spades', value: 4 },
+  { suit: 'Spades', value: 4 },
+  { suit: 'Spades', value: 4 },
+  { suit: 'Spades', value: 4 },
+  { suit: 'Spades', value: 4 },
+  { suit: 'Spades', value: 4 },
+  { suit: 'Spades', value: 4 },
+  { suit: 'Spades', value: 4 },
+  { suit: 'Spades', value: 4 },
+  { suit: 'Spades', value: 4 },
+  { suit: 'Spades', value: 4 },
+  { suit: 'Spades', value: 4 },
+  { suit: 'Spades', value: 4 },
+  { suit: 'Spades', value: 4 },
+  { suit: 'Spades', value: 4 },
+  { suit: 'Spades', value: 4 },
+  { suit: 'Spades', value: 4 },
+  { suit: 'Spades', value: 4 },
+  { suit: 'Spades', value: 4 },
+  { suit: 'Spades', value: 4 },
+  { suit: 'Spades', value: 4 },
+  { suit: 'Spades', value: 4 },
+  { suit: 'Spades', value: 4 },
+  { suit: 'Spades', value: 4 },
+  { suit: 'Spades', value: 4 },
+  { suit: 'Spades', value: 4 },
+  { suit: 'Spades', value: 4 },
+  { suit: 'Spades', value: 4 },
+  { suit: 'Spades', value: 4 },
+  { suit: 'Spades', value: 4 },
+  { suit: 'Spades', value: 4 },
+  { suit: 'Spades', value: 4 },
+  { suit: 'Spades', value: 4 },
+  { suit: 'Spades', value: 4 },
+  { suit: 'Spades', value: 4 },
+  { suit: 'Spades', value: 4 },
+  { suit: 'Spades', value: 4 },
+  { suit: 'Spades', value: 4 },
+  { suit: 'Spades', value: 4 } ]
+OUT<<<<<<<<<<<<<
+second =3
+false
+true
+############################################
+Deck length is = 52
+index start value is  3
+i is 3
+card value before is = 4
+card before is = suitSpades
+a_value = 5
+card after value is = 5
+===============================================
+i is 16
+card value before is = 5
+card before is = suitSpades
+a_value = 5
+card after value is = 5
+===============================================
+i is 29
+card value before is = 5
+card before is = suitSpades
+a_value = 5
+card after value is = 5
+===============================================
+i is 42
+card value before is = 5
+card before is = suitSpades
+a_value = 5
+card after value is = 5
+===============================================
+Inside>>>>>>>>>>>
+[ { suit: 'Spades', value: 5 },
+  { suit: 'Spades', value: 5 },
+  { suit: 'Spades', value: 5 },
+  { suit: 'Spades', value: 5 },
+  { suit: 'Spades', value: 5 },
+  { suit: 'Spades', value: 5 },
+  { suit: 'Spades', value: 5 },
+  { suit: 'Spades', value: 5 },
+  { suit: 'Spades', value: 5 },
+  { suit: 'Spades', value: 5 },
+  { suit: 'Spades', value: 5 },
+  { suit: 'Spades', value: 5 },
+  { suit: 'Spades', value: 5 },
+  { suit: 'Spades', value: 5 },
+  { suit: 'Spades', value: 5 },
+  { suit: 'Spades', value: 5 },
+  { suit: 'Spades', value: 5 },
+  { suit: 'Spades', value: 5 },
+  { suit: 'Spades', value: 5 },
+  { suit: 'Spades', value: 5 },
+  { suit: 'Spades', value: 5 },
+  { suit: 'Spades', value: 5 },
+  { suit: 'Spades', value: 5 },
+  { suit: 'Spades', value: 5 },
+  { suit: 'Spades', value: 5 },
+  { suit: 'Spades', value: 5 },
+  { suit: 'Spades', value: 5 },
+  { suit: 'Spades', value: 5 },
+  { suit: 'Spades', value: 5 },
+  { suit: 'Spades', value: 5 },
+  { suit: 'Spades', value: 5 },
+  { suit: 'Spades', value: 5 },
+  { suit: 'Spades', value: 5 },
+  { suit: 'Spades', value: 5 },
+  { suit: 'Spades', value: 5 },
+  { suit: 'Spades', value: 5 },
+  { suit: 'Spades', value: 5 },
+  { suit: 'Spades', value: 5 },
+  { suit: 'Spades', value: 5 },
+  { suit: 'Spades', value: 5 },
+  { suit: 'Spades', value: 5 },
+  { suit: 'Spades', value: 5 },
+  { suit: 'Spades', value: 5 },
+  { suit: 'Spades', value: 5 },
+  { suit: 'Spades', value: 5 },
+  { suit: 'Spades', value: 5 },
+  { suit: 'Spades', value: 5 },
+  { suit: 'Spades', value: 5 },
+  { suit: 'Spades', value: 5 },
+  { suit: 'Spades', value: 5 },
+  { suit: 'Spades', value: 5 },
+  { suit: 'Spades', value: 5 } ]
+OUT<<<<<<<<<<<<<
+second =4
+false
+true
+############################################
+Deck length is = 52
+index start value is  4
+i is 4
+card value before is = 5
+card before is = suitSpades
+a_value = 6
+card after value is = 6
+===============================================
+i is 17
+card value before is = 6
+card before is = suitSpades
+a_value = 6
+card after value is = 6
+===============================================
+i is 30
+card value before is = 6
+card before is = suitSpades
+a_value = 6
+card after value is = 6
+===============================================
+i is 43
+card value before is = 6
+card before is = suitSpades
+a_value = 6
+card after value is = 6
+===============================================
+Inside>>>>>>>>>>>
+[ { suit: 'Spades', value: 6 },
+  { suit: 'Spades', value: 6 },
+  { suit: 'Spades', value: 6 },
+  { suit: 'Spades', value: 6 },
+  { suit: 'Spades', value: 6 },
+  { suit: 'Spades', value: 6 },
+  { suit: 'Spades', value: 6 },
+  { suit: 'Spades', value: 6 },
+  { suit: 'Spades', value: 6 },
+  { suit: 'Spades', value: 6 },
+  { suit: 'Spades', value: 6 },
+  { suit: 'Spades', value: 6 },
+  { suit: 'Spades', value: 6 },
+  { suit: 'Spades', value: 6 },
+  { suit: 'Spades', value: 6 },
+  { suit: 'Spades', value: 6 },
+  { suit: 'Spades', value: 6 },
+  { suit: 'Spades', value: 6 },
+  { suit: 'Spades', value: 6 },
+  { suit: 'Spades', value: 6 },
+  { suit: 'Spades', value: 6 },
+  { suit: 'Spades', value: 6 },
+  { suit: 'Spades', value: 6 },
+  { suit: 'Spades', value: 6 },
+  { suit: 'Spades', value: 6 },
+  { suit: 'Spades', value: 6 },
+  { suit: 'Spades', value: 6 },
+  { suit: 'Spades', value: 6 },
+  { suit: 'Spades', value: 6 },
+  { suit: 'Spades', value: 6 },
+  { suit: 'Spades', value: 6 },
+  { suit: 'Spades', value: 6 },
+  { suit: 'Spades', value: 6 },
+  { suit: 'Spades', value: 6 },
+  { suit: 'Spades', value: 6 },
+  { suit: 'Spades', value: 6 },
+  { suit: 'Spades', value: 6 },
+  { suit: 'Spades', value: 6 },
+  { suit: 'Spades', value: 6 },
+  { suit: 'Spades', value: 6 },
+  { suit: 'Spades', value: 6 },
+  { suit: 'Spades', value: 6 },
+  { suit: 'Spades', value: 6 },
+  { suit: 'Spades', value: 6 },
+  { suit: 'Spades', value: 6 },
+  { suit: 'Spades', value: 6 },
+  { suit: 'Spades', value: 6 },
+  { suit: 'Spades', value: 6 },
+  { suit: 'Spades', value: 6 },
+  { suit: 'Spades', value: 6 },
+  { suit: 'Spades', value: 6 },
+  { suit: 'Spades', value: 6 } ]
+OUT<<<<<<<<<<<<<
+second =5
+false
+true
+############################################
+Deck length is = 52
+index start value is  5
+i is 5
+card value before is = 6
+card before is = suitSpades
+a_value = 7
+card after value is = 7
+===============================================
+i is 18
+card value before is = 7
+card before is = suitSpades
+a_value = 7
+card after value is = 7
+===============================================
+i is 31
+card value before is = 7
+card before is = suitSpades
+a_value = 7
+card after value is = 7
+===============================================
+i is 44
+card value before is = 7
+card before is = suitSpades
+a_value = 7
+card after value is = 7
+===============================================
+Inside>>>>>>>>>>>
+[ { suit: 'Spades', value: 7 },
+  { suit: 'Spades', value: 7 },
+  { suit: 'Spades', value: 7 },
+  { suit: 'Spades', value: 7 },
+  { suit: 'Spades', value: 7 },
+  { suit: 'Spades', value: 7 },
+  { suit: 'Spades', value: 7 },
+  { suit: 'Spades', value: 7 },
+  { suit: 'Spades', value: 7 },
+  { suit: 'Spades', value: 7 },
+  { suit: 'Spades', value: 7 },
+  { suit: 'Spades', value: 7 },
+  { suit: 'Spades', value: 7 },
+  { suit: 'Spades', value: 7 },
+  { suit: 'Spades', value: 7 },
+  { suit: 'Spades', value: 7 },
+  { suit: 'Spades', value: 7 },
+  { suit: 'Spades', value: 7 },
+  { suit: 'Spades', value: 7 },
+  { suit: 'Spades', value: 7 },
+  { suit: 'Spades', value: 7 },
+  { suit: 'Spades', value: 7 },
+  { suit: 'Spades', value: 7 },
+  { suit: 'Spades', value: 7 },
+  { suit: 'Spades', value: 7 },
+  { suit: 'Spades', value: 7 },
+  { suit: 'Spades', value: 7 },
+  { suit: 'Spades', value: 7 },
+  { suit: 'Spades', value: 7 },
+  { suit: 'Spades', value: 7 },
+  { suit: 'Spades', value: 7 },
+  { suit: 'Spades', value: 7 },
+  { suit: 'Spades', value: 7 },
+  { suit: 'Spades', value: 7 },
+  { suit: 'Spades', value: 7 },
+  { suit: 'Spades', value: 7 },
+  { suit: 'Spades', value: 7 },
+  { suit: 'Spades', value: 7 },
+  { suit: 'Spades', value: 7 },
+  { suit: 'Spades', value: 7 },
+  { suit: 'Spades', value: 7 },
+  { suit: 'Spades', value: 7 },
+  { suit: 'Spades', value: 7 },
+  { suit: 'Spades', value: 7 },
+  { suit: 'Spades', value: 7 },
+  { suit: 'Spades', value: 7 },
+  { suit: 'Spades', value: 7 },
+  { suit: 'Spades', value: 7 },
+  { suit: 'Spades', value: 7 },
+  { suit: 'Spades', value: 7 },
+  { suit: 'Spades', value: 7 },
+  { suit: 'Spades', value: 7 } ]
+OUT<<<<<<<<<<<<<
+second =6
+false
+true
+############################################
+Deck length is = 52
+index start value is  6
+i is 6
+card value before is = 7
+card before is = suitSpades
+a_value = 8
+card after value is = 8
+===============================================
+i is 19
+card value before is = 8
+card before is = suitSpades
+a_value = 8
+card after value is = 8
+===============================================
+i is 32
+card value before is = 8
+card before is = suitSpades
+a_value = 8
+card after value is = 8
+===============================================
+i is 45
+card value before is = 8
+card before is = suitSpades
+a_value = 8
+card after value is = 8
+===============================================
+Inside>>>>>>>>>>>
+[ { suit: 'Spades', value: 8 },
+  { suit: 'Spades', value: 8 },
+  { suit: 'Spades', value: 8 },
+  { suit: 'Spades', value: 8 },
+  { suit: 'Spades', value: 8 },
+  { suit: 'Spades', value: 8 },
+  { suit: 'Spades', value: 8 },
+  { suit: 'Spades', value: 8 },
+  { suit: 'Spades', value: 8 },
+  { suit: 'Spades', value: 8 },
+  { suit: 'Spades', value: 8 },
+  { suit: 'Spades', value: 8 },
+  { suit: 'Spades', value: 8 },
+  { suit: 'Spades', value: 8 },
+  { suit: 'Spades', value: 8 },
+  { suit: 'Spades', value: 8 },
+  { suit: 'Spades', value: 8 },
+  { suit: 'Spades', value: 8 },
+  { suit: 'Spades', value: 8 },
+  { suit: 'Spades', value: 8 },
+  { suit: 'Spades', value: 8 },
+  { suit: 'Spades', value: 8 },
+  { suit: 'Spades', value: 8 },
+  { suit: 'Spades', value: 8 },
+  { suit: 'Spades', value: 8 },
+  { suit: 'Spades', value: 8 },
+  { suit: 'Spades', value: 8 },
+  { suit: 'Spades', value: 8 },
+  { suit: 'Spades', value: 8 },
+  { suit: 'Spades', value: 8 },
+  { suit: 'Spades', value: 8 },
+  { suit: 'Spades', value: 8 },
+  { suit: 'Spades', value: 8 },
+  { suit: 'Spades', value: 8 },
+  { suit: 'Spades', value: 8 },
+  { suit: 'Spades', value: 8 },
+  { suit: 'Spades', value: 8 },
+  { suit: 'Spades', value: 8 },
+  { suit: 'Spades', value: 8 },
+  { suit: 'Spades', value: 8 },
+  { suit: 'Spades', value: 8 },
+  { suit: 'Spades', value: 8 },
+  { suit: 'Spades', value: 8 },
+  { suit: 'Spades', value: 8 },
+  { suit: 'Spades', value: 8 },
+  { suit: 'Spades', value: 8 },
+  { suit: 'Spades', value: 8 },
+  { suit: 'Spades', value: 8 },
+  { suit: 'Spades', value: 8 },
+  { suit: 'Spades', value: 8 },
+  { suit: 'Spades', value: 8 },
+  { suit: 'Spades', value: 8 } ]
+OUT<<<<<<<<<<<<<
+second =7
+false
+true
+############################################
+Deck length is = 52
+index start value is  7
+i is 7
+card value before is = 8
+card before is = suitSpades
+a_value = 9
+card after value is = 9
+===============================================
+i is 20
+card value before is = 9
+card before is = suitSpades
+a_value = 9
+card after value is = 9
+===============================================
+i is 33
+card value before is = 9
+card before is = suitSpades
+a_value = 9
+card after value is = 9
+===============================================
+i is 46
+card value before is = 9
+card before is = suitSpades
+a_value = 9
+card after value is = 9
+===============================================
+Inside>>>>>>>>>>>
+[ { suit: 'Spades', value: 9 },
+  { suit: 'Spades', value: 9 },
+  { suit: 'Spades', value: 9 },
+  { suit: 'Spades', value: 9 },
+  { suit: 'Spades', value: 9 },
+  { suit: 'Spades', value: 9 },
+  { suit: 'Spades', value: 9 },
+  { suit: 'Spades', value: 9 },
+  { suit: 'Spades', value: 9 },
+  { suit: 'Spades', value: 9 },
+  { suit: 'Spades', value: 9 },
+  { suit: 'Spades', value: 9 },
+  { suit: 'Spades', value: 9 },
+  { suit: 'Spades', value: 9 },
+  { suit: 'Spades', value: 9 },
+  { suit: 'Spades', value: 9 },
+  { suit: 'Spades', value: 9 },
+  { suit: 'Spades', value: 9 },
+  { suit: 'Spades', value: 9 },
+  { suit: 'Spades', value: 9 },
+  { suit: 'Spades', value: 9 },
+  { suit: 'Spades', value: 9 },
+  { suit: 'Spades', value: 9 },
+  { suit: 'Spades', value: 9 },
+  { suit: 'Spades', value: 9 },
+  { suit: 'Spades', value: 9 },
+  { suit: 'Spades', value: 9 },
+  { suit: 'Spades', value: 9 },
+  { suit: 'Spades', value: 9 },
+  { suit: 'Spades', value: 9 },
+  { suit: 'Spades', value: 9 },
+  { suit: 'Spades', value: 9 },
+  { suit: 'Spades', value: 9 },
+  { suit: 'Spades', value: 9 },
+  { suit: 'Spades', value: 9 },
+  { suit: 'Spades', value: 9 },
+  { suit: 'Spades', value: 9 },
+  { suit: 'Spades', value: 9 },
+  { suit: 'Spades', value: 9 },
+  { suit: 'Spades', value: 9 },
+  { suit: 'Spades', value: 9 },
+  { suit: 'Spades', value: 9 },
+  { suit: 'Spades', value: 9 },
+  { suit: 'Spades', value: 9 },
+  { suit: 'Spades', value: 9 },
+  { suit: 'Spades', value: 9 },
+  { suit: 'Spades', value: 9 },
+  { suit: 'Spades', value: 9 },
+  { suit: 'Spades', value: 9 },
+  { suit: 'Spades', value: 9 },
+  { suit: 'Spades', value: 9 },
+  { suit: 'Spades', value: 9 } ]
+OUT<<<<<<<<<<<<<
+second =8
+false
+true
+############################################
+Deck length is = 52
+index start value is  8
+i is 8
+card value before is = 9
+card before is = suitSpades
+a_value = 10
+card after value is = 10
+===============================================
+i is 21
+card value before is = 10
+card before is = suitSpades
+a_value = 10
+card after value is = 10
+===============================================
+i is 34
+card value before is = 10
+card before is = suitSpades
+a_value = 10
+card after value is = 10
+===============================================
+i is 47
+card value before is = 10
+card before is = suitSpades
+a_value = 10
+card after value is = 10
+===============================================
+Inside>>>>>>>>>>>
+[ { suit: 'Spades', value: 10 },
+  { suit: 'Spades', value: 10 },
+  { suit: 'Spades', value: 10 },
+  { suit: 'Spades', value: 10 },
+  { suit: 'Spades', value: 10 },
+  { suit: 'Spades', value: 10 },
+  { suit: 'Spades', value: 10 },
+  { suit: 'Spades', value: 10 },
+  { suit: 'Spades', value: 10 },
+  { suit: 'Spades', value: 10 },
+  { suit: 'Spades', value: 10 },
+  { suit: 'Spades', value: 10 },
+  { suit: 'Spades', value: 10 },
+  { suit: 'Spades', value: 10 },
+  { suit: 'Spades', value: 10 },
+  { suit: 'Spades', value: 10 },
+  { suit: 'Spades', value: 10 },
+  { suit: 'Spades', value: 10 },
+  { suit: 'Spades', value: 10 },
+  { suit: 'Spades', value: 10 },
+  { suit: 'Spades', value: 10 },
+  { suit: 'Spades', value: 10 },
+  { suit: 'Spades', value: 10 },
+  { suit: 'Spades', value: 10 },
+  { suit: 'Spades', value: 10 },
+  { suit: 'Spades', value: 10 },
+  { suit: 'Spades', value: 10 },
+  { suit: 'Spades', value: 10 },
+  { suit: 'Spades', value: 10 },
+  { suit: 'Spades', value: 10 },
+  { suit: 'Spades', value: 10 },
+  { suit: 'Spades', value: 10 },
+  { suit: 'Spades', value: 10 },
+  { suit: 'Spades', value: 10 },
+  { suit: 'Spades', value: 10 },
+  { suit: 'Spades', value: 10 },
+  { suit: 'Spades', value: 10 },
+  { suit: 'Spades', value: 10 },
+  { suit: 'Spades', value: 10 },
+  { suit: 'Spades', value: 10 },
+  { suit: 'Spades', value: 10 },
+  { suit: 'Spades', value: 10 },
+  { suit: 'Spades', value: 10 },
+  { suit: 'Spades', value: 10 },
+  { suit: 'Spades', value: 10 },
+  { suit: 'Spades', value: 10 },
+  { suit: 'Spades', value: 10 },
+  { suit: 'Spades', value: 10 },
+  { suit: 'Spades', value: 10 },
+  { suit: 'Spades', value: 10 },
+  { suit: 'Spades', value: 10 },
+  { suit: 'Spades', value: 10 } ]
+OUT<<<<<<<<<<<<<
+second =9
+false
+true
+############################################
+Deck length is = 52
+index start value is  9
+i is 9
+card value before is = 10
+card before is = suitSpades
+a_value = J
+card after value is = J
+===============================================
+i is 22
+card value before is = J
+card before is = suitSpades
+a_value = J
+card after value is = J
+===============================================
+i is 35
+card value before is = J
+card before is = suitSpades
+a_value = J
+card after value is = J
+===============================================
+i is 48
+card value before is = J
+card before is = suitSpades
+a_value = J
+card after value is = J
+===============================================
+Inside>>>>>>>>>>>
+[ { suit: 'Spades', value: 'J' },
+  { suit: 'Spades', value: 'J' },
+  { suit: 'Spades', value: 'J' },
+  { suit: 'Spades', value: 'J' },
+  { suit: 'Spades', value: 'J' },
+  { suit: 'Spades', value: 'J' },
+  { suit: 'Spades', value: 'J' },
+  { suit: 'Spades', value: 'J' },
+  { suit: 'Spades', value: 'J' },
+  { suit: 'Spades', value: 'J' },
+  { suit: 'Spades', value: 'J' },
+  { suit: 'Spades', value: 'J' },
+  { suit: 'Spades', value: 'J' },
+  { suit: 'Spades', value: 'J' },
+  { suit: 'Spades', value: 'J' },
+  { suit: 'Spades', value: 'J' },
+  { suit: 'Spades', value: 'J' },
+  { suit: 'Spades', value: 'J' },
+  { suit: 'Spades', value: 'J' },
+  { suit: 'Spades', value: 'J' },
+  { suit: 'Spades', value: 'J' },
+  { suit: 'Spades', value: 'J' },
+  { suit: 'Spades', value: 'J' },
+  { suit: 'Spades', value: 'J' },
+  { suit: 'Spades', value: 'J' },
+  { suit: 'Spades', value: 'J' },
+  { suit: 'Spades', value: 'J' },
+  { suit: 'Spades', value: 'J' },
+  { suit: 'Spades', value: 'J' },
+  { suit: 'Spades', value: 'J' },
+  { suit: 'Spades', value: 'J' },
+  { suit: 'Spades', value: 'J' },
+  { suit: 'Spades', value: 'J' },
+  { suit: 'Spades', value: 'J' },
+  { suit: 'Spades', value: 'J' },
+  { suit: 'Spades', value: 'J' },
+  { suit: 'Spades', value: 'J' },
+  { suit: 'Spades', value: 'J' },
+  { suit: 'Spades', value: 'J' },
+  { suit: 'Spades', value: 'J' },
+  { suit: 'Spades', value: 'J' },
+  { suit: 'Spades', value: 'J' },
+  { suit: 'Spades', value: 'J' },
+  { suit: 'Spades', value: 'J' },
+  { suit: 'Spades', value: 'J' },
+  { suit: 'Spades', value: 'J' },
+  { suit: 'Spades', value: 'J' },
+  { suit: 'Spades', value: 'J' },
+  { suit: 'Spades', value: 'J' },
+  { suit: 'Spades', value: 'J' },
+  { suit: 'Spades', value: 'J' },
+  { suit: 'Spades', value: 'J' } ]
+OUT<<<<<<<<<<<<<
+second =10
+false
+true
+############################################
+Deck length is = 52
+index start value is  10
+i is 10
+card value before is = J
+card before is = suitSpades
+a_value = Q
+card after value is = Q
+===============================================
+i is 23
+card value before is = Q
+card before is = suitSpades
+a_value = Q
+card after value is = Q
+===============================================
+i is 36
+card value before is = Q
+card before is = suitSpades
+a_value = Q
+card after value is = Q
+===============================================
+i is 49
+card value before is = Q
+card before is = suitSpades
+a_value = Q
+card after value is = Q
+===============================================
+Inside>>>>>>>>>>>
+[ { suit: 'Spades', value: 'Q' },
+  { suit: 'Spades', value: 'Q' },
+  { suit: 'Spades', value: 'Q' },
+  { suit: 'Spades', value: 'Q' },
+  { suit: 'Spades', value: 'Q' },
+  { suit: 'Spades', value: 'Q' },
+  { suit: 'Spades', value: 'Q' },
+  { suit: 'Spades', value: 'Q' },
+  { suit: 'Spades', value: 'Q' },
+  { suit: 'Spades', value: 'Q' },
+  { suit: 'Spades', value: 'Q' },
+  { suit: 'Spades', value: 'Q' },
+  { suit: 'Spades', value: 'Q' },
+  { suit: 'Spades', value: 'Q' },
+  { suit: 'Spades', value: 'Q' },
+  { suit: 'Spades', value: 'Q' },
+  { suit: 'Spades', value: 'Q' },
+  { suit: 'Spades', value: 'Q' },
+  { suit: 'Spades', value: 'Q' },
+  { suit: 'Spades', value: 'Q' },
+  { suit: 'Spades', value: 'Q' },
+  { suit: 'Spades', value: 'Q' },
+  { suit: 'Spades', value: 'Q' },
+  { suit: 'Spades', value: 'Q' },
+  { suit: 'Spades', value: 'Q' },
+  { suit: 'Spades', value: 'Q' },
+  { suit: 'Spades', value: 'Q' },
+  { suit: 'Spades', value: 'Q' },
+  { suit: 'Spades', value: 'Q' },
+  { suit: 'Spades', value: 'Q' },
+  { suit: 'Spades', value: 'Q' },
+  { suit: 'Spades', value: 'Q' },
+  { suit: 'Spades', value: 'Q' },
+  { suit: 'Spades', value: 'Q' },
+  { suit: 'Spades', value: 'Q' },
+  { suit: 'Spades', value: 'Q' },
+  { suit: 'Spades', value: 'Q' },
+  { suit: 'Spades', value: 'Q' },
+  { suit: 'Spades', value: 'Q' },
+  { suit: 'Spades', value: 'Q' },
+  { suit: 'Spades', value: 'Q' },
+  { suit: 'Spades', value: 'Q' },
+  { suit: 'Spades', value: 'Q' },
+  { suit: 'Spades', value: 'Q' },
+  { suit: 'Spades', value: 'Q' },
+  { suit: 'Spades', value: 'Q' },
+  { suit: 'Spades', value: 'Q' },
+  { suit: 'Spades', value: 'Q' },
+  { suit: 'Spades', value: 'Q' },
+  { suit: 'Spades', value: 'Q' },
+  { suit: 'Spades', value: 'Q' },
+  { suit: 'Spades', value: 'Q' } ]
+OUT<<<<<<<<<<<<<
+second =11
+false
+true
+############################################
+Deck length is = 52
+index start value is  11
+i is 11
+card value before is = Q
+card before is = suitSpades
+a_value = K
+card after value is = K
+===============================================
+i is 24
+card value before is = K
+card before is = suitSpades
+a_value = K
+card after value is = K
+===============================================
+i is 37
+card value before is = K
+card before is = suitSpades
+a_value = K
+card after value is = K
+===============================================
+i is 50
+card value before is = K
+card before is = suitSpades
+a_value = K
+card after value is = K
+===============================================
+Inside>>>>>>>>>>>
+[ { suit: 'Spades', value: 'K' },
+  { suit: 'Spades', value: 'K' },
+  { suit: 'Spades', value: 'K' },
+  { suit: 'Spades', value: 'K' },
+  { suit: 'Spades', value: 'K' },
+  { suit: 'Spades', value: 'K' },
+  { suit: 'Spades', value: 'K' },
+  { suit: 'Spades', value: 'K' },
+  { suit: 'Spades', value: 'K' },
+  { suit: 'Spades', value: 'K' },
+  { suit: 'Spades', value: 'K' },
+  { suit: 'Spades', value: 'K' },
+  { suit: 'Spades', value: 'K' },
+  { suit: 'Spades', value: 'K' },
+  { suit: 'Spades', value: 'K' },
+  { suit: 'Spades', value: 'K' },
+  { suit: 'Spades', value: 'K' },
+  { suit: 'Spades', value: 'K' },
+  { suit: 'Spades', value: 'K' },
+  { suit: 'Spades', value: 'K' },
+  { suit: 'Spades', value: 'K' },
+  { suit: 'Spades', value: 'K' },
+  { suit: 'Spades', value: 'K' },
+  { suit: 'Spades', value: 'K' },
+  { suit: 'Spades', value: 'K' },
+  { suit: 'Spades', value: 'K' },
+  { suit: 'Spades', value: 'K' },
+  { suit: 'Spades', value: 'K' },
+  { suit: 'Spades', value: 'K' },
+  { suit: 'Spades', value: 'K' },
+  { suit: 'Spades', value: 'K' },
+  { suit: 'Spades', value: 'K' },
+  { suit: 'Spades', value: 'K' },
+  { suit: 'Spades', value: 'K' },
+  { suit: 'Spades', value: 'K' },
+  { suit: 'Spades', value: 'K' },
+  { suit: 'Spades', value: 'K' },
+  { suit: 'Spades', value: 'K' },
+  { suit: 'Spades', value: 'K' },
+  { suit: 'Spades', value: 'K' },
+  { suit: 'Spades', value: 'K' },
+  { suit: 'Spades', value: 'K' },
+  { suit: 'Spades', value: 'K' },
+  { suit: 'Spades', value: 'K' },
+  { suit: 'Spades', value: 'K' },
+  { suit: 'Spades', value: 'K' },
+  { suit: 'Spades', value: 'K' },
+  { suit: 'Spades', value: 'K' },
+  { suit: 'Spades', value: 'K' },
+  { suit: 'Spades', value: 'K' },
+  { suit: 'Spades', value: 'K' },
+  { suit: 'Spades', value: 'K' } ]
+OUT<<<<<<<<<<<<<
+second =12
+false
+true
+############################################
+Deck length is = 52
+index start value is  12
+i is 12
+card value before is = K
+card before is = suitSpades
+a_value = A
+card after value is = A
+===============================================
+i is 25
+card value before is = A
+card before is = suitSpades
+a_value = A
+card after value is = A
+===============================================
+i is 38
+card value before is = A
+card before is = suitSpades
+a_value = A
+card after value is = A
+===============================================
+i is 51
+card value before is = A
+card before is = suitSpades
+a_value = A
+card after value is = A
+===============================================
+Inside>>>>>>>>>>>
+[ { suit: 'Spades', value: 'A' },
+  { suit: 'Spades', value: 'A' },
+  { suit: 'Spades', value: 'A' },
+  { suit: 'Spades', value: 'A' },
+  { suit: 'Spades', value: 'A' },
+  { suit: 'Spades', value: 'A' },
+  { suit: 'Spades', value: 'A' },
+  { suit: 'Spades', value: 'A' },
+  { suit: 'Spades', value: 'A' },
+  { suit: 'Spades', value: 'A' },
+  { suit: 'Spades', value: 'A' },
+  { suit: 'Spades', value: 'A' },
+  { suit: 'Spades', value: 'A' },
+  { suit: 'Spades', value: 'A' },
+  { suit: 'Spades', value: 'A' },
+  { suit: 'Spades', value: 'A' },
+  { suit: 'Spades', value: 'A' },
+  { suit: 'Spades', value: 'A' },
+  { suit: 'Spades', value: 'A' },
+  { suit: 'Spades', value: 'A' },
+  { suit: 'Spades', value: 'A' },
+  { suit: 'Spades', value: 'A' },
+  { suit: 'Spades', value: 'A' },
+  { suit: 'Spades', value: 'A' },
+  { suit: 'Spades', value: 'A' },
+  { suit: 'Spades', value: 'A' },
+  { suit: 'Spades', value: 'A' },
+  { suit: 'Spades', value: 'A' },
+  { suit: 'Spades', value: 'A' },
+  { suit: 'Spades', value: 'A' },
+  { suit: 'Spades', value: 'A' },
+  { suit: 'Spades', value: 'A' },
+  { suit: 'Spades', value: 'A' },
+  { suit: 'Spades', value: 'A' },
+  { suit: 'Spades', value: 'A' },
+  { suit: 'Spades', value: 'A' },
+  { suit: 'Spades', value: 'A' },
+  { suit: 'Spades', value: 'A' },
+  { suit: 'Spades', value: 'A' },
+  { suit: 'Spades', value: 'A' },
+  { suit: 'Spades', value: 'A' },
+  { suit: 'Spades', value: 'A' },
+  { suit: 'Spades', value: 'A' },
+  { suit: 'Spades', value: 'A' },
+  { suit: 'Spades', value: 'A' },
+  { suit: 'Spades', value: 'A' },
+  { suit: 'Spades', value: 'A' },
+  { suit: 'Spades', value: 'A' },
+  { suit: 'Spades', value: 'A' },
+  { suit: 'Spades', value: 'A' },
+  { suit: 'Spades', value: 'A' },
+  { suit: 'Spades', value: 'A' } ]
+OUT<<<<<<<<<<<<<
+[ { suit: 'Spades', value: 'A' },
+  { suit: 'Spades', value: 'A' },
+  { suit: 'Spades', value: 'A' },
+  { suit: 'Spades', value: 'A' },
+  { suit: 'Spades', value: 'A' },
+  { suit: 'Spades', value: 'A' },
+  { suit: 'Spades', value: 'A' },
+  { suit: 'Spades', value: 'A' },
+  { suit: 'Spades', value: 'A' },
+  { suit: 'Spades', value: 'A' },
+  { suit: 'Spades', value: 'A' },
+  { suit: 'Spades', value: 'A' },
+  { suit: 'Spades', value: 'A' },
+  { suit: 'Spades', value: 'A' },
+  { suit: 'Spades', value: 'A' },
+  { suit: 'Spades', value: 'A' },
+  { suit: 'Spades', value: 'A' },
+  { suit: 'Spades', value: 'A' },
+  { suit: 'Spades', value: 'A' },
+  { suit: 'Spades', value: 'A' },
+  { suit: 'Spades', value: 'A' },
+  { suit: 'Spades', value: 'A' },
+  { suit: 'Spades', value: 'A' },
+  { suit: 'Spades', value: 'A' },
+  { suit: 'Spades', value: 'A' },
+  { suit: 'Spades', value: 'A' },
+  { suit: 'Spades', value: 'A' },
+  { suit: 'Spades', value: 'A' },
+  { suit: 'Spades', value: 'A' },
+  { suit: 'Spades', value: 'A' },
+  { suit: 'Spades', value: 'A' },
+  { suit: 'Spades', value: 'A' },
+  { suit: 'Spades', value: 'A' },
+  { suit: 'Spades', value: 'A' },
+  { suit: 'Spades', value: 'A' },
+  { suit: 'Spades', value: 'A' },
+  { suit: 'Spades', value: 'A' },
+  { suit: 'Spades', value: 'A' },
+  { suit: 'Spades', value: 'A' },
+  { suit: 'Spades', value: 'A' },
+  { suit: 'Spades', value: 'A' },
+  { suit: 'Spades', value: 'A' },
+  { suit: 'Spades', value: 'A' },
+  { suit: 'Spades', value: 'A' },
+  { suit: 'Spades', value: 'A' },
+  { suit: 'Spades', value: 'A' },
+  { suit: 'Spades', value: 'A' },
+  { suit: 'Spades', value: 'A' },
+  { suit: 'Spades', value: 'A' },
+  { suit: 'Spades', value: 'A' },
+  { suit: 'Spades', value: 'A' },
+  { suit: 'Spades', value: 'A' } ]
