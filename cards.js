@@ -51,19 +51,11 @@ function dumpArray (target, source){
 }
 
 deck = buildDeck();
-// // This is my first iteration
-// while (deck.length > 0){
-//   player1 = deck.shift();
-//   player2 = deck.shift();
 
-//   console.log(player1.card, 'vs', player2.card);
-//   console.log("The winner is Player:" , highCard(player1, player2));
-// }
-
-//war game stuff
 roundPot = [];
 p1 = [];
 p2 = [];
+players = [p1,p2];
 
 while (deck.length > 1){
   p1.push(deck.shift());
@@ -75,22 +67,21 @@ while(p1.length && p2.length){
   player2Draw = p2.shift();
   roundPot.push(player1Draw, player2Draw);
   winner = highCard(player1Draw, player2Draw);
-  if (winner == 1) {
-    console.log("Player 1 is the winner");
-    dumpArray(p2, roundPot);
-  }
-  else if (winner == 2){
-    console.log("Player 2  is the winner");
-    dumpArray(p1, roundPot);
+  if (winner){
+    console.log("Winner is Player", winner);
+    // 1 % 2 == 1
+    //2  % 2 == 0
+    //little trick for getting the index of the losing player
+    dumpArray(players[winner%2], roundPot);
   }
   else{
     console.log("This around is a tie");
     for(var x = 0; x <=2; x++)
       roundPot.push(p1.shift(),p2.shift());
-    console.log("size of put now", roundPot.length);
   }
+  console.log("P1 Deck", p1.length, "| P2 Deck", p2.length )
 
 }
-console.log("Player 1 Deck Length", p1);
-console.log("Player 2 Deck Length", p2);
+console.log("Player 1 card count", p1.length);
+console.log("Player 2 card count", p2.length);
 
