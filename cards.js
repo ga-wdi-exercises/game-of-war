@@ -59,7 +59,7 @@ function playWar(deck) {
   var playerTwoDeck = deck;
   // console.log(playerOneDeck.length);
   // console.log(playerTwoDeck.length);
-  while (playerOneDeck.length > 0 || playerTwoDeck.length){
+  while (playerOneDeck.length > 0 || playerTwoDeck.length > 0){
     var playerOneCard = playerOneDeck.shift();
     var playerTwoCard= playerTwoDeck.shift();
     console.log(playerOneCard);
@@ -71,7 +71,7 @@ function playWar(deck) {
       console.log("Tie");
     } else {
       console.log('player two won!');
-      // playerTwoDeck.push(playerOneCard);
+      playerTwoDeck.push(playerOneCard);
     };
   };
 }
