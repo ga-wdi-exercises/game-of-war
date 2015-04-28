@@ -1,6 +1,6 @@
 var values  = [2, 3, 4, 5, 6, 7, 8, 9, 10, "J", "Q", "K", "A"];
 var suits   = ["Clubs", "Diamonds", "Hearts", "Spades"];
-
+var combos = []
 function shuffle(array){
   var currentIndex = array.length;
   var randomIndex;
@@ -18,6 +18,31 @@ function shuffle(array){
 
 function buildDeck(){
 
-// Put some code in here!
-
+for(var i = 0; i < values.length; i++)
+  {
+    for(var j = 0; j < suits.length; j++)
+      {
+        card = {suit:suits[j], value: values[i]}
+        combos.push(card);
+      }
+  }
+  return combos;
 }
+console.log(buildDeck())
+
+// if (values.indexof(card1) > values.indexof(card2)) {
+//   console.log("card1 wins")
+// }
+// else if (values.indexof(card1) == values.indexof(card2)) {
+//   console.log("UR BOTH FUCKTARDS")
+// }
+// else {  
+//   console.log("card2 wins")
+// } 
+
+
+
+
+
+
+
