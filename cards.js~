@@ -34,7 +34,7 @@ console.log(buildDeck())
 //   console.log("card1 wins")
 // }
 // else if (values.indexof(card1) == values.indexof(card2)) {
-//   console.log("tie")
+//   console.log("UR BOTH FUCKTARDS")
 // }
 // else {  
 //   console.log("card2 wins")
