@@ -69,14 +69,14 @@ while(p1.length && p2.length){
   winner = highCard(player1Draw, player2Draw);
   if (winner){
     console.log("Winner is Player", winner);
-    // 1 % 2 == 1
+    //1 % 2 == 1
     //2  % 2 == 0
     //little trick for getting the index of the losing player
     dumpArray(players[winner%2], roundPot);
   }
   else{
     console.log("This around is a tie");
-    for(var x = 0; x <=2; x++)
+    for(var x = 0; x <2; x++)
       roundPot.push(p1.shift(),p2.shift());
   }
   console.log("P1 Deck", p1.length, "| P2 Deck", p2.length )
