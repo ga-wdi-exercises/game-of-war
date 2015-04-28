@@ -55,3 +55,13 @@ console.log("Player 1: ")
 console.log(dealtPlayer1)
 console.log("Player 2: ")
 console.log(dealtPlayer2)
+
+/*if (dealtPlayer1[value] > dealtPlayer2[value])
+{
+    console.log("Player 1 wins!")
+  }
+
+  else {
+    console.log("Player 2 wins!")
+  }
+  */
