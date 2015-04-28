@@ -14,10 +14,20 @@ function shuffle(array){
     array[randomIndex]   = temporaryValue;
   }
   return array;
+  console.log(array);
 }
+
+var deck = [];
 
 function buildDeck(){
-
-// Put some code in here!
-
+  for(var v = 0; v < values.length; v++){
+    for(var s = 0; s < suits.length; s++){
+      var card = {value:values[v], suit:suits[s]};
+      deck.push(card);
+    }
+  }
+  return deck;
 }
+
+  shuffledDeck = shuffle(buildDeck);
+  console.log(shuffledDeck);
