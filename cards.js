@@ -16,8 +16,46 @@ function shuffle(array){
   return array;
 }
 
-function buildDeck(){
+function buildDeck(values, suits){
+  var deck = [];
+      for( var suitIndex = 0; suitIndex < suits.length; suitIndex++ ) {
+      for( var valueIndex = 0; valueIndex < values.length; valueIndex++ ) {
+        cardValue = values[valueIndex];
+        cardSuit = suits[suitIndex];
+        newCard =  {
+          cardSuit: cardSuit,
+          cardValue: cardValue,
+        // n+1
+        }
+        deck.push(newCard)
+      }
+   }
+  return deck;
+}
 
-// Put some code in here!
+var deck = buildDeck(values, suits);
+console.log(deck);
+console.log("*******************************")
 
+var shuffledDeck = shuffle(deck);
+console.log(shuffledDeck);
+console.log("*******************************")
+
+var player1Card = shuffledDeck.pop()
+console.log(player1Card)
+console.log("*******************************")
+
+//console.log(shuffledDeck.slice(26))
+//console.log(shuffledDeck.pop());
+
+var player2Card = shuffledDeck.pop()
+console.log(player2Card)
+console.log("*******************************")
+
+function highCard(cardValue){
+  if (player2Card > player1Card){
+    return true;
+  } else {
+    return false;
+  }
 }
