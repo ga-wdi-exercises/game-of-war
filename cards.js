@@ -1,6 +1,5 @@
 var values  = [2, 3, 4, 5, 6, 7, 8, 9, 10, "J", "Q", "K", "A"];
 var suits   = ["Clubs", "Diamonds", "Hearts", "Spades"];
-var tat = 0;
 
 // Initialize deck and player objects
 var gameDeck = buildDeck();
@@ -62,21 +61,7 @@ function highCard(){
 
     // If both cards are the same...
     else {
-      // if (playerOne.deck[-4] > playerTwo.deck[-4]) {
-      //   for( var i=0; i<4; i++ ) {
-      //     playerOne.deck.unshift( playerTwo.deck.pop() );
-      //   }
-      // }
-      // else if (playerTwo.deck[-4] > playerOne.deck[-4]) {
-      //   for( var i=0; i<4; i++ ) {
-      //     playerTwo.deck.unshift( playerOne.deck.pop() );
-      //   }
-      // }
-      // else {
-      //   // TBD
-      // }
 
-      console.log( "****************************************************************************");
       // Initialize array to hold eight total cards played by each player in case of tie
       tempArray = [];
       for( var i = 0; i < 3; i++ ) {
@@ -99,9 +84,10 @@ function highCard(){
       }
       // Need to figure out what to do in case of chained ties
       else if ( tempArray[tempArray.length-2] === tempArray[tempArray.length-1] ) {
-        tat++;
+
       }
     }
+    console.log( "--------------------------");
     console.log( "END OF TURN");
     console.log( "Player 1 has " + playerOne.deck.length + " cards left." );
     console.log( "Player 2 has " + playerTwo.deck.length + " cards left." );
@@ -110,12 +96,11 @@ function highCard(){
   console.log( "==========================");
   console.log( "==========================");
   if ( playerOne.deck.length > 0 ) {
-    console.log( "PLAYER 1 WINS!" );
+    console.log( "PLAYER 1 WINS THE GAME!" );
   }
   else {
-    console.log( "PLAYER 2 WINS!" );
+    console.log( "PLAYER 2 WINS THE GAME!" );
   }
 }
 
 highCard();
-console.log("TAT: " + tat);
