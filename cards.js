@@ -16,8 +16,48 @@ function shuffle(array){
   return array;
 }
 
-function buildDeck(){
+function buildDeck(values, suits){
+   deck = [];
 
-// Put some code in here!
+  for (value in values) {
+    for (suit in suits){
 
+  var card = {
+             value: values[value],
+             suit: suits[suit]
+          };
+  deck.push(card);
+    }
+  }
+  return deck;
 }
+
+var newDeck = buildDeck(values, suits)
+var shuffledDeck = shuffle(newDeck)
+
+
+console.log(shuffledDeck)
+
+//with shuffled deck, pull two cards and determine who wins
+
+
+function highCard(deck, values) {
+  var player1 = deck[0];
+  var player2 = deck[1];
+  console.log("Player 1 card is: " + player1.value + " of " + player1.suit);
+  console.log("Player 2 card is: " + player2.value + " of " + player2.suit);
+
+  currentGame = [player1, player2];
+
+  if(values.indexOf(player1.value) > values.indexOf(player2.value)) {
+    console.log("Player 1 wins!");
+  }
+  else if(values.indexOf(player1.value) < values.indexOf(player2.value)) {
+    console.log("Player 2 wins!");
+  }
+  else {
+    console.log("Tie!");
+  }
+ }
+
+highCard(shuffledDeck, values);
