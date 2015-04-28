@@ -34,7 +34,7 @@ function each (array1, array2, fxn) {
 //   each(values), suits, combineElements);
 // }
 var deck = [];
-var card = {suit:null,value:null};
+var card = {suit:0,value:0};
 for(var i =0;i<(values.length*suits.length);i++){
 deck.push(card);
 }
@@ -47,19 +47,23 @@ function buildDeck(){
     console.log(suit_passed);
     var value_passed = (values.indexOf(a_value) >= 0)&&!(suits.indexOf(a_value) >= 0);
     console.log(value_passed);
+
     if (suit_passed){
       console.log(">>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>");
-        var start = (suits.indexOf(a_value)*values.length);
-        console.log("suit_passed "+start);
+      console.log("a_value is = "+a_value);
+        var start = (suits.indexOf(a_value));
+        console.log("start is "+start);
         for(var i = start*13;i < (start*13+13);i++){
           // console.log("card suit before is = " +deck[i].suit);
           console.log("a_value = "+ a_value);
           console.log("i is "+i);
+          console.log(deck[i].suit);
           deck[i].suit = a_value;
           console.log("card suit is = " +deck[i].suit);
           console.log("===============================================");
         }
       }
+
       else {
         console.log("############################################");
       // else if (value_passed){
@@ -69,7 +73,7 @@ function buildDeck(){
         for(var i = start;i < deck.length;i+=13){
           console.log("i is "+i);
           console.log("card value before is = " +deck[i].value);
-          console.log("card before is = suit" +deck[i].suit);
+          console.log("card suit before is = " +deck[i].suit);
           console.log("a_value = "+ a_value);
 
           deck[i].value = a_value;
