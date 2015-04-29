@@ -28,10 +28,12 @@ Have the computer play both sides in a game of War until there is a "winner". It
 You might remember this game from elementary school:
 
 The cards are divided into two decks of 26 cards. Each deck is given to a player.
+split shuffled deck into 2 arrays
 
 On each turn, each player draws the top card from their deck. The player with the higher card adds both their card and the other player's card to the bottom of their deck.
-
+draw card.first from each array if player1p[1] > player2[1] then player1 << player2[1]
 If the cards drawn have the same value, each player draws an additional three cards. The player whose final card is of the greater value adds all eight cards to the bottom of their deck. (If both final cards have the same value, another three are drawn, and so on, until one player's final card is greater than the other player's.)
+
 
 The game continues until one player runs out of cards.
 
