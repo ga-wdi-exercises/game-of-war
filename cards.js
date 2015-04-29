@@ -17,7 +17,57 @@ function shuffle(array){
 }
 
 function buildDeck(){
+  var deck = []
 
-// Put some code in here!
+  var suit = ""
+  //var face_value = "2"
 
+  for (value_index in values){
+    for(card_suit in suits){
+      var card = {}
+
+
+      card.suit = suits[card_suit];
+      card.face_value = values[value_index];
+      // console.log(card)
+      deck.push(card);
+    }
+
+  }
+  // Put some code in here!
+  return deck
 }
+
+
+cardDeck = buildDeck()
+console.log(cardDeck)
+console.log("Now we deal the cards out")
+
+var i = 0
+var player1 = []
+var player2 = []
+
+
+var dealCards = function(){
+
+  shuffle(cardDeck)
+
+  while ( i < 6){
+    var  player1Hand = {}
+    var  player2Hand = {}
+
+    console.log("for player 1");
+    console.log( player1 = cardDeck.pop(1));
+    player1Hand<<(player1);
+
+    console.log("for player 2");
+    console.log( player2 = cardDeck.pop(1));
+    player2Hand<<(player2)
+
+
+    i++;
+return player2Hand
+  }
+}
+
+dealCards()
