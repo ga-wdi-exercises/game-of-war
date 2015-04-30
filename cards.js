@@ -17,7 +17,42 @@ function shuffle(array){
 }
 
 function buildDeck(){
+  var deckArray = [];
 
-// Put some code in here!
-
+  for (var i = 0; i < values.length; i++) {
+    for (var j = 0; j < suits.length; j++) {
+      var card = {};
+      var score = i + 1
+      card = {score: score, value: values[i], suit: suits[j]};
+      deckArray.push(card);
+    };
+  };
+  return deckArray
 }
+
+var warDeck = buildDeck();
+// console.log(warDeck)
+var shuffledDeck = shuffle(warDeck)
+
+
+function highCard(deck) {
+  var firstCard = deck[0];  
+  var secondCard = deck[1];
+
+  console.log("Computer One has " + firstCard.value + " of " + firstCard.suit)
+  console.log("Computer One has " + secondCard.value + " of " + secondCard.suit)
+  if (firstCard.score === secondCard.score) {
+    console.log("It's a tie!");
+  } else if (firstCard.score > secondCard.score) {
+    console.log("Computer One wins!")
+  } else {
+    console.log("Computer Two wins!")
+  };
+}
+
+highCard(warDeck);
+
+
+
+
+
